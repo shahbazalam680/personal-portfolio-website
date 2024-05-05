@@ -1,0 +1,24 @@
+#logo {
+    font-family: "Oswald", sans-serif;
+    font-size: xx-large;
+    color: #351B59;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.hero-image {
+    border: 5px solid blue;
+}
+.gradient {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+}
+h2:hover {
+    text-decoration: underline;
+}
+
+.image:hover {
+    transform: scale(1.5);
+    transform-origin: center center;
+    border: 2px solid black;
+}
